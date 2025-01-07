@@ -60,4 +60,4 @@ ax[1].imshow(img_recolored)
 ax[1].set_title('Изображение в 16 цветах', size=16)
 
 plt.show()
---
+ 
